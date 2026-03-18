@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 Hi I'm Lauris,
 
 About me:
@@ -9,3 +8,4 @@ About me:
 - 👑 City V Roleplay Server Owner
 - 💻 Areas: Fivem, Roblox and Web
 - 🌐 Languages: German, English and Latvian
+- 
